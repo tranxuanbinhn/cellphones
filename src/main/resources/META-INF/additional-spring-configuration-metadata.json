@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "cellphones.jwtSecret",
+      "type": "java.lang.String",
+      "description": "Description for cellphones.jwtSecret."
+  }
+] }
